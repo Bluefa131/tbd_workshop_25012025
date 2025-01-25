@@ -9,7 +9,7 @@ function say_hello() {
     console.log("What is your name?")
     console.log("My name is Phacharaphon Saramoon")
     console.log("My name is Polnapak Jantha")
-    
+    console.log("Crashed!")
 }
 
 // Don’t change the code under this comment!
